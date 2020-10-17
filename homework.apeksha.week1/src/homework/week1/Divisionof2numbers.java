@@ -1,0 +1,10 @@
+package homework.week1;
+
+public class Divisionof2numbers {
+    public static void main(String[] args) {
+        int a = 50;
+        int b = 3;
+        System.out.println("50/3 = " + (a / b));
+
+    }
+}
